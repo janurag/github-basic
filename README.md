@@ -1,6 +1,6 @@
 Github Basic
 ============
 
-Learning about GitHub. Ex: Licencing, Read me, etc.
+Learning about GitHub. Ex: Licencing, Read me, Markdown, etc.
 
-[My site](http://www.techieaosis.org)
+[My site : TechieOasis](http://www.techieaosis.org)
